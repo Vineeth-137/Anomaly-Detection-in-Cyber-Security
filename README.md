@@ -177,6 +177,18 @@ Anomaly Detection
 
 ---
 
+## Conference Recognition
+
+This project was presented as:
+
+**Anomaly Detection in Cybersecurity: Evaluating Machine Learning Models on the BETH Dataset**
+
+**Conference:** IEEE International Conference on Consumer Electronics (ICCE 2025)
+
+The project received a Certificate of Participation from IEEE.
+
+---
+
 # 👨‍💻 Author
 
 **Vineeth S R**
